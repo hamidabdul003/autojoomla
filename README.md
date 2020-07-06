@@ -36,7 +36,7 @@ Dependencies
 
 Instalation
 =
-Dependencies will be automatically installed.
+Dependencies will be manually installed.
 
     sudo add-apt-repository universe
     sudo apt update
