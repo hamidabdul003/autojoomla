@@ -62,8 +62,6 @@ Tested on
 
 features 
 =
-- Automatically install Joomla 3_9_18
-- Python2
 
 Demonstration
 = 
