@@ -39,11 +39,11 @@ Instalation
 =
 Dependencies will be automatically installed.
 
-    add-apt-repository universe
+    sudo add-apt-repository universe
     sudo apt update
     sudo apt-get install python2
-    curl https://bootstrap.pypa.io/get-pip.py --output get-pip.py
-    python2 get-pip.py && pip install mysql.connector
+    sudo curl https://bootstrap.pypa.io/get-pip.py --output get-pip.py
+    sudo python2 get-pip.py && sudo pip install mysql.connector
     sudo chmod +x script.py
     sudo ./script.py
 
