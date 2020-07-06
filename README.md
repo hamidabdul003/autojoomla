@@ -2,7 +2,6 @@
 [![Version](https://img.shields.io/badge/Joomla-3_9_18-COLOR)]()
 [![PyPI](https://img.shields.io/badge/Python-2.7-blue.svg)]()
 [![Build](https://img.shields.io/badge/Starbhak-Depok-informational.svg)]()
-https://www.datacamp.com/community/tutorials/mysql-python
 
 Joomla
 =
