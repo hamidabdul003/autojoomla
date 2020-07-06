@@ -96,7 +96,7 @@ if isFile:
 else:
 	f = open("/etc/apache2/sites-available/joomla.conf", "a")
 	f.write("<VirtualHost *:80> \n")
-	f.write("  ServerName joomla.linuxbuz.com\n")
+	f.write("  ServerName starbhak.com\n")
 	f.write("  DirectoryIndex index.html index.php\n")
 	f.write("  DocumentRoot /var/www/html/joomla\n")
 	f.write(" \n")
