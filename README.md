@@ -66,7 +66,7 @@ Demonstration
 = 
 
 I have some questions!
-- For Username Database : aham
+- For Username Database : joomla
 - For Password Database : password
 - Database Name : joomladb
 - Domain : starbhak.com
