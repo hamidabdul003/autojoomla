@@ -177,7 +177,6 @@ if isFile:
 else:
 	install = os.system("cd /opt/ && unzip Joomla_3-9-18-Stable-Full_Package.zip -d /var/www/html/joomla")
 	install = os.system("chown -R www-data:www-data /var/www/html/joomla")
-	install = os.system("sudo rm -rf /var/www/html/joomla/install")
 
 print(""" \033[1;36m
 ┌══════════════════════════════════════════════════════════════┐
