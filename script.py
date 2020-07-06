@@ -56,6 +56,8 @@ if isFile:
 else:
 	install = os.system("add-apt-repository universe && sudo apt update && curl https://bootstrap.pypa.io/get-pip.py --output get-pip.py")
 install = os.system("python2 get-pip.py && pip install mysql.connector && pip install pexpect")
+
+import pexpect
 #read input file
 fin = open("/etc/php/7.4/apache2/php.ini", "rt")
 #read file contents to string
