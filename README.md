@@ -84,3 +84,4 @@ Contact
 - Youtube : https://www.youtube.com/channel/UC31M7yRxhs8OsMQ9CfCVy5Q
 - Facebook : https://www.facebook.com/smktarunabhaktidepok
 - Email : starbhaktkj73@gmail.com
+- Instagram : https://www.instagram.com/starbhaktkj/
