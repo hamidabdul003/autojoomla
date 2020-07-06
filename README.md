@@ -66,6 +66,8 @@ Demonstration
 = 
 
 I have some questions!
+- For Username mariadb : root
+- For Password mariadb : password
 - For Username Database : joomla
 - For Password Database : password
 - Database Name : joomladb
