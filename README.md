@@ -69,8 +69,8 @@ Demonstration
 = 
 
 I have some questions!
-- For Username admin : aham
-- For Password admin : password
+- For Username Database : aham
+- For Password Database : password
 - Domain : starbhak.com
 
 
